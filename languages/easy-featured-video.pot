@@ -1,0 +1,87 @@
+# Copyright (C) 2020 Mantrabrain
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Featured Video 1.0.0\n"
+"Report-Msgid-Bugs-To: mantrabrain@gmail.com\n"
+"POT-Creation-Date: 2020-10-28 07:04:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Mantrabrain <mantrabrain@gmail.com>\n"
+"Language-Team: Mantrabrain <mantrabrain@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/admin/class-easy-featured-video-admin-settings.php:71
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/class-easy-featured-video-admin-settings.php:620
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:29
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:42
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:43
+msgid "Pages"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:112
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:119
+msgid "Post"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:128
+msgid "Automatically display after posts contents?"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:136
+msgid "Automatically display video instaed of posts thumbnail?"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:146
+msgid "Automatically display after posts excerpt?"
+msgstr ""
+
+#: includes/admin/settings/class-easy-featured-video-settings-general.php:154
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:47
+msgid "Save changes"
+msgstr ""
+
+#: includes/class-easy-featured-video-meta-boxes.php:20
+msgid "Featured Video"
+msgstr ""
+
+#: includes/class-easy-featured-video.php:58
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/class-easy-featured-video.php:68
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Featured Video"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easy featured video"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mantrabrain"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mantrabrain.com"
+msgstr ""
